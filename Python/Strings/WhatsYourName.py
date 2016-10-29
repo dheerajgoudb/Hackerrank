@@ -1,3 +1,1 @@
-Fname = raw_input()
-Lname = raw_input()
-print "Hello %s %s! You just delved into python." %(Fname,Lname)
+print "Hello %s %s! You just delved into python." %(raw_input(),raw_input())
